@@ -3,7 +3,7 @@ package com.company;
 
 import java.util.Arrays;
 
-public class sortWord {
+public class SortWord {
     public static void main(String[] args) {
         String sentence = "Na wyścigach wyścigowych wyścigówek wyścigowych wyścigówka wyścigowa wyścignęła wyścigówkę wyścigową numer sześć";
         String[] tab1 = sentence.split(" ");

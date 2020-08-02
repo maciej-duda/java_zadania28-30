@@ -1,6 +1,6 @@
 package com.company;
 
-public class letterCount {
+public class LetterCount {
     public static void main(String[] args) {
 
         String sentence = "Na wyścigach wyścigowych wyścigówek wyścigowych wyścigówka wyścigowa wyścignęła wyścigówkę wyścigową numer sześć.";

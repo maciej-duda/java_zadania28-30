@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class userMenuDoWhile {
+public class UserMenuDoWhile {
     public static void main(String[] args) {
 
         int exitChoice = 1;
