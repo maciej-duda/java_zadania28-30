@@ -1,6 +1,4 @@
 package com.company;
-
-
 import java.util.Arrays;
 
 public class SortWord {
@@ -30,6 +28,5 @@ public class SortWord {
         for(int i = 0;i<middleWordsArray.length;i++) {
             System.out.println(middleWordsArray[i]);
         }
-
     }
 }
