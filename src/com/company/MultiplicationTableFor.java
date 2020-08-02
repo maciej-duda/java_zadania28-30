@@ -1,7 +1,6 @@
 package com.company;
 
 public class MultiplicationTableFor {
-
     public static void main(String[] args) {
 
         int row = 10;
@@ -26,7 +25,6 @@ public class MultiplicationTableFor {
                 }
             }
         }
-
         System.out.println(output);
     }
 }
